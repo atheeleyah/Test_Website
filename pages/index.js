@@ -46,9 +46,15 @@ export default function Home() {
         </p>
         </div>
         <div className='text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-teal-600'>
+          <a href="https://www.twitter.com">
           <AiFillTwitterCircle />
+          </a>
+          <a href="https://www.linkedin.com/in/jacob-bradshaw-3a31615b/">
           <AiFillLinkedin />
+          </a>
+          <a href="https://www.youtube.com">
           <AiFillYoutube />
+          </a>
         </div>
         <div className='relative mx-auto bg-gradient-to-b from-teal-400 to-transparent rounded-full w-40 h-60 mt-10 overflow-hidden md:h-90 md:w-106'>
           <Image src={devjake} layout="fill" objectFit='cover'/> 
