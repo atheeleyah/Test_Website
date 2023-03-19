@@ -2,6 +2,8 @@ This is my first website project.
 
 Always learning new things!
 
+https://gleaming-custard-5f28b7.netlify.app/
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
